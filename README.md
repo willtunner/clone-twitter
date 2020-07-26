@@ -4,5 +4,5 @@
 > https://www.youtube.com/watch?v=K-8z_4xvT3o&t=555s
 
 [![NPM Version][npm-image]][npm-url]
-
-
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
