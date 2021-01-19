@@ -21,6 +21,7 @@
 2. Use: "npm install" para baixar os node_modules
 3. Depois use: "npm start" 
 4. Vai abrir em: http://localhost:3000/
+5. Ver o site em produção: https://clone-twitter-five.vercel.app/
 
 ## Conteudo desse estudo
 * Html
